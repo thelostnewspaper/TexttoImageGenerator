@@ -1,4 +1,4 @@
-# TexttoImageGenerator
+# Text to Image Generator
 Generative AI Project: Image Generation with Stable Diffusion
 
 Welcome to my Generative AI Project, where I harness the power of Stable Diffusion to transform creative text prompts into visually stunning images. This repository demonstrates how generative AI can merge technology and imagination to produce art that pushes the boundaries of innovation.
